@@ -1,4 +1,4 @@
-site_name: 'todolist-backstage'
+site_name: 'todolist'
 
 nav:
   - Home: index.md
